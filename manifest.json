@@ -1,6 +1,6 @@
 {
-    "name": "worker_marketplace",
-    "short_name": "worker_marketplace",
+    "name": "Worker Marketplace",
+    "short_name": "Marketplace",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#12805C",
